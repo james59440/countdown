@@ -1,0 +1,23 @@
+body {
+    background-image: url("orig - Copie.jpg");
+    background-size: 100%;
+}
+
+#titre{
+    color: red;
+    padding-top: 3%;
+}
+
+
+#haut{
+    padding-top: 5%;
+}
+
+
+
+#couleur{
+
+    padding-top: 10%;
+    color: red;
+    font-size: 50px;
+}
